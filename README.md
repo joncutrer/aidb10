@@ -2,7 +2,13 @@
 
 A premium, ultra-modern dashboard designed to track linear progress through a structured 10-week AI mastery curriculum. Built with a focus on high-end aesthetics, smooth interactions, and efficient data persistence.
 
-![Dashboard Preview](file:///home/sysadmin/.gemini/antigravity/brain/74f76cfa-4c35-4bb9-bcf6-53b879ad716e/main_page_compact_1767367204024.png)
+
+![App Preview]docs/screenshots/checklist-webapp-week1.jpg)
+
+![Dashboard Preview]docs/screenshots/checklist-webapp-week1-detail.jpg)
+
+
+
 
 ## ✨ Features
 
