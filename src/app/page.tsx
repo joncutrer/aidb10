@@ -43,7 +43,7 @@ export default function Home() {
     }
 
     return (
-        <main>
+        <main className="app-container">
             {/* Hero Section */}
             <header className="hero">
                 <div className="hero-badge">

@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Week 01: The Vibe Code Kickoff",
     "description": "Build a working web app using tools like Replit Agent, Lovable, or Cursor to track your progress through the 10-weekend resolution; the goal is to deploy a live tracker with features like checkboxes, notes, and a progress bar.",
-    "isCompleted": false,
-    "notes": ""
+    "isCompleted": true,
+    "notes": "Vibe Code App to track progress.  Opted for local VM development environment and used AntiGravity to plan, build and test applicaiton.\n\nImplemented persistent (to file) storage."
   },
   {
     "id": 2,
