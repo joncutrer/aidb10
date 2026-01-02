@@ -3,9 +3,9 @@
 A premium, ultra-modern dashboard designed to track linear progress through a structured 10-week AI mastery curriculum. Built with a focus on high-end aesthetics, smooth interactions, and efficient data persistence.
 
 
-![App Preview]docs/screenshots/checklist-webapp-week1.jpg)
+![App Preview](docs/screenshots/checklist-webapp-week1.jpg)
 
-![Dashboard Preview]docs/screenshots/checklist-webapp-week1-detail.jpg)
+![Dashboard Preview](docs/screenshots/checklist-webapp-week1-detail.jpg)
 
 
 
