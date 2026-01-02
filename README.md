@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Mastery 2026: 10-Week Challenge Tracker
 
-## Getting Started
+A premium, ultra-modern dashboard designed to track linear progress through a structured 10-week AI mastery curriculum. Built with a focus on high-end aesthetics, smooth interactions, and efficient data persistence.
 
-First, run the development server:
+![Dashboard Preview](file:///home/sysadmin/.gemini/antigravity/brain/74f76cfa-4c35-4bb9-bcf6-53b879ad716e/main_page_compact_1767367204024.png)
+
+## ✨ Features
+
+- **Progress Dashboard:** Real-time visualization of your "Overall Mastery Progress" and current stage.
+- **Interactive Weekly Grid:** Dynamic cards displaying challenge summaries with sleek hover effects and transitions.
+- **Detailed Challenge Modals:** Deep dive into each week's objectives, complete with a dedicated "Journal & Insights" area for reflection.
+- **Persistence:** Automatically saves completion status and journal notes to a local data store.
+- **Ultra-Modern UI:** Custom-crafted dark mode aesthetics using Glassmorphism, tailored typography (Inter & Outfit), and high-performance Vanilla CSS.
+
+## 🚀 Tech Stack
+
+- **Framework:** [Next.js 16](https://nextjs.org) (App Router)
+- **Library:** [React 19](https://reactjs.org)
+- **Language:** [TypeScript](https://www.typescriptlang.org)
+- **Icons:** [Lucide React](https://lucide.dev)
+- **Data Store:** Local JSON Persistence (`/data/weeks.json`)
+- **Styling:** Vanilla CSS with Modern Web APIs (Flexbox, Grid, Backdrop-filter)
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js 20+
+- npm / yarn / pnpm
+
+### Installation
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Development
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📂 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `src/app`: Application routes, API logic (`/api/weeks`), and global styles.
+- `src/components`: UI components including `WeekCard` and `WeekModal`.
+- `src/lib`: Core logic including the data `store.ts` and utility functions.
+- `data/`: Local JSON storage for persistent application state.
 
-## Learn More
+## 🎨 Design Philosophy
 
-To learn more about Next.js, take a look at the following resources:
+The application prioritizes "Visual Excellence" and "Dynamic Design":
+- **Rich Aesthetics:** Uses curated HSL-tailored colors and deep dark surfaces.
+- **Micro-animations:** Smooth state transitions for hover effects and modal interactions.
+- **Responsive Layout:** A fluid grid system that translates well across device sizes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Transcend the ordinary. Master the future of technology, one week at a time.*
