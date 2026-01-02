@@ -1,71 +1,78 @@
 [
   {
     "id": 1,
-    "title": "Week 1: Foundations",
-    "description": "Understand the basics of AI, LLMs, and Prompt Engineering.",
+    "title": "Week 01: The Vibe Code Kickoff",
+    "description": "Build a working web app using tools like Replit Agent, Lovable, or Cursor to track your progress through the 10-weekend resolution; the goal is to deploy a live tracker with features like checkboxes, notes, and a progress bar.",
     "isCompleted": false,
-    "notes": "Blah Blah Blah"
+    "notes": ""
   },
   {
     "id": 2,
-    "title": "Week 2: Prompt Engineering",
-    "description": "Deep dive into advanced prompting techniques (Chain of Thought, Few-Shot).",
+    "title": "Week 02: The Model Mapping Project",
+    "description": "Create a \"Model Topography Sheet\" and a one-page \"Rules of Thumb\" document by testing different tasks (writing, strategy, data) across models like Claude, ChatGPT, and Gemini to determine which tool is best suited for your specific workflows.",
     "isCompleted": false,
-    "notes": "Hello"
+    "notes": ""
   },
   {
     "id": 3,
-    "title": "Week 3: APIs & Integration",
-    "description": "Learn to use OpenAI/Gemini APIs in Python/Node.js.",
+    "title": "Week 03: The Deep Research Sprint",
+    "description": "Use AI deep research tools to produce a 2-page research brief regarding a real-life decision you need to make, resulting in a clear recommendation that outlines options, findings, and risks.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 4,
-    "title": "Week 4: RAG Basics",
-    "description": "Build a simple Retrieval-Augmented Generation system.",
+    "title": "Week 04: The Analysis Project",
+    "description": "Take a messy dataset (e.g., from a spreadsheet or CSV), clean it, and produce a one-page Insights Memo that identifies top drivers and specific actions, moving beyond simple charts to actual decision-making.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 5,
-    "title": "Week 5: Vector Databases",
-    "description": "Explore Weaviate, Pinecone, or ChromaDB for embeddings.",
+    "title": "Week 05: The Visual Reasoning Project",
+    "description": "Generate an infographic, diagram, or visual explainer that communicates a complex concept, process, or timeline instantly, prioritizing visual logic over artistic design to explain ideas faster than words.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 6,
-    "title": "Week 6: Agents",
-    "description": "Build a basic autonomous agent using LangChain or AutoGen.",
+    "title": "Week 06: The Information Pipeline",
+    "description": "Establish a reusable workflow using NotebookLM and Gamma that transforms a single source input (like a transcript or report) into a summary, FAQ, and presentation deck in under 7 minutes.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 7,
-    "title": "Week 7: Fine-Tuning",
-    "description": "Learn the concepts of fine-tuning models on custom datasets.",
+    "title": "Week 07: The First Automation",
+    "description": "Build a \"Content Distribution Machine\" using tools like Lindy, n8n, or Make to handle a production or distribution task (such as a weekly reading digest) automatically, including triggers and routing.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 8,
-    "title": "Week 8: Computer Vision",
-    "description": "Work with multimodal models for image analysis.",
+    "title": "Week 08: The Second Automation",
+    "description": "Construct a \"Productivity Workflow,\" such as a meeting prep bot or inbox manager, that automatically manages inputs and creates follow-ups or dashboards to prevent tasks from falling through the cracks.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 9,
-    "title": "Week 9: Voice & Audio",
-    "description": "Integrate TTS and STT models for voice interaction.",
+    "title": "Week 09: The Context Engineering Project",
+    "description": "Build a \"Personal AI Operating System\" that includes a reusable Professional Context Document (containing role, style, and project details) to paste into chats, eliminating the need to repeat context for every new conversation.",
     "isCompleted": false,
     "notes": ""
   },
   {
     "id": 10,
-    "title": "Week 10: Final Project",
-    "description": "Build a comprehensive AI application combining previous weeks.",
+    "title": "Week 10: The AI-Powered Build",
+    "description": "Create and deploy a working application—such as a knowledge chatbot, voice agent, or data extraction tool—that uses AI as its core feature rather than just helping you build it.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "title": "Bonus Weekend: The Agent Exploration",
+    "description": "Run the \"Agent Evaluation Gauntlet\" to produce an Agent Scorecard and identify specific use cases; this involves testing agents against research, operations, and production tasks to determine which are safe to delegate unsupervised versus those requiring human oversight.",
     "isCompleted": false,
     "notes": ""
   }
