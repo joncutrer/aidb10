@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Week 1: Foundations",
+    "description": "Understand the basics of AI, LLMs, and Prompt Engineering.",
+    "isCompleted": false,
+    "notes": "Blah Blah Blah"
+  },
+  {
+    "id": 2,
+    "title": "Week 2: Prompt Engineering",
+    "description": "Deep dive into advanced prompting techniques (Chain of Thought, Few-Shot).",
+    "isCompleted": false,
+    "notes": "Hello"
+  },
+  {
+    "id": 3,
+    "title": "Week 3: APIs & Integration",
+    "description": "Learn to use OpenAI/Gemini APIs in Python/Node.js.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "title": "Week 4: RAG Basics",
+    "description": "Build a simple Retrieval-Augmented Generation system.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "title": "Week 5: Vector Databases",
+    "description": "Explore Weaviate, Pinecone, or ChromaDB for embeddings.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "title": "Week 6: Agents",
+    "description": "Build a basic autonomous agent using LangChain or AutoGen.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "title": "Week 7: Fine-Tuning",
+    "description": "Learn the concepts of fine-tuning models on custom datasets.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "title": "Week 8: Computer Vision",
+    "description": "Work with multimodal models for image analysis.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "title": "Week 9: Voice & Audio",
+    "description": "Integrate TTS and STT models for voice interaction.",
+    "isCompleted": false,
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "title": "Week 10: Final Project",
+    "description": "Build a comprehensive AI application combining previous weeks.",
+    "isCompleted": false,
+    "notes": ""
+  }
+]
